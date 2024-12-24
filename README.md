@@ -18,8 +18,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/Sherry-m03/Portfolio-Website.git
+   cd Portfolio-Website
 2. **Install dependencies**
    ```bash
     npm install
