@@ -21,9 +21,16 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
    git clone https://github.com/yourusername/your-portfolio.git
    cd your-portfolio
 2. **Install dependencies**
-  ```bash
-  npm install
+   ```bash
+    npm install
 3. **Run the development server**
-  ```bash
-  npm start
+   ```bash
+   npm start  
 4. **Visit the site Open http://localhost:3000 in your browser.**
+
+## 📬 Contact
+</br>
+If you'd like to connect or discuss potential opportunities, feel free to reach out!
+
+- **Email:** shreyamasta99@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/shreya-masta/
